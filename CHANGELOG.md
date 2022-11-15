@@ -10,7 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
-- Application reacts to windows taskbar theme si color of tray icon is based on this theme.
+- Application reacts to windows taskbar theme and change color of the tray icon based on taskbar theme.
 - Error codes for better indication of error.
 
 ### Changed
