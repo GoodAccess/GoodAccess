@@ -5,6 +5,12 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [Unreleased]
+
+### Added 
+
+- Persistent connection. When persistent is enabled, the VPN will remain connected even after you log out or switch Windows user accounts (the connection runs as a service).
+- Registry reading for MSI package. Set up default protocol, team name and auto updates during installation.
 
 ## [3.3.4] - 2022-11-15
 
