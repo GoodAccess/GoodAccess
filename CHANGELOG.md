@@ -12,6 +12,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Persistent connection. When persistent is enabled, the VPN will remain connected even after you log out or switch Windows user accounts (the connection runs as a service).
 - Registry reading for MSI package. Set up default protocol, team name and auto updates during installation.
 
+### Fixed
+
+- Reconnecting with openvpn protocol.
+
 ## [3.3.4] - 2022-11-15
 
 ### Added
