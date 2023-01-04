@@ -61,8 +61,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Notification system.
 
-[3.4.0]: https://goodaccess-storage.b-cdn.net/applications/prod/windows/GoodAccess_Setup_3.4.0.exe
-[3.3.4]: https://goodaccess-storage.b-cdn.net/applications/prod/win/GoodAccess_Setup_3.3.4.exe
-[3.3.2]: https://goodaccess-storage.b-cdn.net/applications/prod/win/GoodAccess_Setup_3.3.2.exe
-[3.3.1]: https://goodaccess-storage.b-cdn.net/applications/prod/win/GoodAccess_Setup_3.3.1.exe
-[3.3.0]: https://goodaccess-storage.b-cdn.net/applications/prod/win/GoodAccess_Setup_3.3.0.exe
+[3.4.0]: https://app.goodaccess.com/team-member/download/win
